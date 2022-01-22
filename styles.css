@@ -1,0 +1,47 @@
+body {
+		background-color: #D3DEDC;
+		text-align: center;
+	    font-family: 'Roboto Condensed', sans-serif;
+
+	}
+
+	hr {
+		border-style: dotted none none none;
+		border-width: 10px;
+		border-color: grey;
+		background-color: #D3DEDC;
+		height: 0px;
+		width: 50%;
+	}
+
+	img {
+		height: 100px;
+	}
+
+	h1 {
+
+	    color: #92A9BD;
+	}
+
+	strong {
+
+	    color: #92A9BD;
+	}
+
+	table {
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+
+        border-collapse: collapse;
+
+	}
+
+	table, th, td {
+	    border: 2px solid #7C99AC;
+	}
+
+	th, td {
+	    padding: 15px;
+
+	}
